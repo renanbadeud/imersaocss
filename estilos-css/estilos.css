@@ -19,4 +19,20 @@ menu li{
 
 a{
     color: teal;
+    text-decoration: none;
+
+}
+
+a:hover {
+    text-decoration: underline;
+}    
+
+.site-subtitle,
+.site-title{
+    text-decoration: whitesmoke;
+    text-align: center;
+}
+
+.site-subtitle{
+    font-style: italic;
 }
