@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fpet.ufma.br%2Fl-blue%2F&psig=AOvVaw0txWM5OXQOEEXmvzwFT2iG&ust=1589294972723000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDEy6uHrOkCFQAAAAAdAAAAABAD");
+    background-size:auto 100vh ;
+    font-family: Arial;
+    height: 100vh;
+}
+.menu{
+    background-color: white;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+
+}
+menu li{
+    list-style: none;
+}
+
+a{
+    color: teal;
+}
